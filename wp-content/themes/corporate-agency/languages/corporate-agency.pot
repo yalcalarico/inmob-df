@@ -1,0 +1,515 @@
+# <!=Copyright (C) 2019 themewidget
+# This file is distributed under the GNU General Public License v2 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Corporate Agency 1.0.6\n"
+"Report-Msgid-Bugs-To: https://themewidget.com/support\n"
+"POT-Creation-Date: 2019-05-17 17:35:40+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: themewidget <themewidget@gmail.com>\n"
+"Language-Team: themewidget <themewidget@gmail.com>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_"
+"e;esc_html_x;_n_noop;_nx_noop;translate_nooped_plural;\n"
+"X-Textdomain-Support: yes\n"
+
+#: 404.php:18 404.php:30
+msgid "404"
+msgstr ""
+
+#: 404.php:30
+msgid ""
+"Sorry, it appears the page your were looking for doesn&rsquo;t exist "
+"anymore or might have been moved."
+msgstr ""
+
+#: 404.php:34
+msgid "Back to Home"
+msgstr ""
+
+#: comments.php:35
+#. translators: 1: title.
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:34
+#. translators: %s: CMS name, i.e. WordPress.
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:40
+#. translators: 1: Theme name, 2: Theme author.
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: footer.php:40
+msgid "Theme Widget"
+msgstr ""
+
+#: functions.php:52
+msgid "Primary"
+msgstr ""
+
+#: functions.php:112
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:114 functions.php:124
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:122
+msgid "Footer"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:122
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/customizer/defaults.php:86
+msgid "Call US + 1 (1800) 459 123 7"
+msgstr ""
+
+#: inc/customizer/defaults.php:87
+msgid "hello@domain.com"
+msgstr ""
+
+#: inc/customizer/options.php:32
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/options.php:43
+msgid "Theme Header"
+msgstr ""
+
+#: inc/customizer/options.php:54
+msgid "Enable Top Header"
+msgstr ""
+
+#: inc/customizer/options.php:66
+msgid "Telephone Number"
+msgstr ""
+
+#: inc/customizer/options.php:78
+msgid "Email"
+msgstr ""
+
+#: inc/customizer/options.php:90
+msgid "Banner Section"
+msgstr ""
+
+#: inc/customizer/options.php:101
+msgid "Enable Banner Section"
+msgstr ""
+
+#: inc/customizer/options.php:113
+msgid "Select Pages for Banner"
+msgstr ""
+
+#: inc/customizer/options.php:114 inc/customizer/options.php:175
+#: inc/customizer/options.php:345 inc/customizer/options.php:455
+msgid "Select one or more than one pages"
+msgstr ""
+
+#: inc/customizer/options.php:127
+msgid "Services Section"
+msgstr ""
+
+#: inc/customizer/options.php:138
+msgid "Enable Services Section"
+msgstr ""
+
+#: inc/customizer/options.php:150 inc/customizer/options.php:211
+#: inc/customizer/options.php:320 inc/customizer/options.php:381
+msgid "Section Pre Title"
+msgstr ""
+
+#: inc/customizer/options.php:162 inc/customizer/options.php:223
+#: inc/customizer/options.php:332 inc/customizer/options.php:393
+msgid "Section Main Title"
+msgstr ""
+
+#: inc/customizer/options.php:174
+msgid "Select Pages for Services"
+msgstr ""
+
+#: inc/customizer/options.php:188
+msgid "Projects Section"
+msgstr ""
+
+#: inc/customizer/options.php:199
+msgid "Enable Projects Section"
+msgstr ""
+
+#: inc/customizer/options.php:235
+msgid "Select Categories for Projects"
+msgstr ""
+
+#: inc/customizer/options.php:236 inc/customizer/options.php:406
+msgid "Select one or more than one categories"
+msgstr ""
+
+#: inc/customizer/options.php:249 inc/customizer/options.php:419
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/customizer/options.php:261
+msgid "CTA Section"
+msgstr ""
+
+#: inc/customizer/options.php:272
+msgid "Enable CTA Section"
+msgstr ""
+
+#: inc/customizer/options.php:284
+msgid "Select Page for CTA"
+msgstr ""
+
+#: inc/customizer/options.php:285
+msgid "Page Contents are used for the image and CTA content"
+msgstr ""
+
+#: inc/customizer/options.php:297
+msgid "Testimonials Section"
+msgstr ""
+
+#: inc/customizer/options.php:308
+msgid "Enable Testimonials Section"
+msgstr ""
+
+#: inc/customizer/options.php:344
+msgid "Select Pages for Testimonials"
+msgstr ""
+
+#: inc/customizer/options.php:358
+msgid "Blog Section"
+msgstr ""
+
+#: inc/customizer/options.php:369
+msgid "Enable Blog Section"
+msgstr ""
+
+#: inc/customizer/options.php:405
+msgid "Select Categories for Blog"
+msgstr ""
+
+#: inc/customizer/options.php:431
+msgid "Partner Section"
+msgstr ""
+
+#: inc/customizer/options.php:442
+msgid "Enable Partners Section"
+msgstr ""
+
+#: inc/customizer/options.php:454
+msgid "Select Pages for Partners"
+msgstr ""
+
+#: inc/customizer/options.php:468
+msgid "Theme Sidebar"
+msgstr ""
+
+#: inc/customizer/options.php:479
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/customizer/options.php:483
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/options.php:484
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/options.php:485
+msgid "None"
+msgstr ""
+
+#: inc/customizer/options.php:496
+msgid "Theme Footer"
+msgstr ""
+
+#: inc/customizer/options.php:507
+msgid "Enable Footer Social Links"
+msgstr ""
+
+#: inc/customizer/options.php:519
+msgid "Social Links"
+msgstr ""
+
+#: inc/customizer/options.php:530
+msgid "Facebook Link"
+msgstr ""
+
+#: inc/customizer/options.php:542
+msgid "Twitter Link"
+msgstr ""
+
+#: inc/customizer/options.php:554
+msgid "Google Plus Link"
+msgstr ""
+
+#: inc/customizer/options.php:566
+msgid "Pinterest Link"
+msgstr ""
+
+#: inc/customizer/options.php:578
+msgid "Dribble Link"
+msgstr ""
+
+#: inc/customizer/options.php:590
+msgid "Linkedin Link"
+msgstr ""
+
+#: inc/customizer/options.php:602
+msgid "Other Options"
+msgstr ""
+
+#: inc/customizer/options.php:613
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/customizer/options.php:625
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/template-functions.php:49
+msgid "Current Page: "
+msgstr ""
+
+#: inc/template-tags.php:37
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:40
+#. translators: 1: list of categories.
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:47
+#. translators: 1: list of tags.
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:57
+#. translators: %s: post title
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:74 template-parts/content-page.php:50
+#. translators: %s: Name of current post. Only visible to screen readers
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/theme-hooks.php:12
+msgid "Search"
+msgstr ""
+
+#: index.php:56
+msgid "Previous"
+msgstr ""
+
+#: index.php:57
+msgid "Next"
+msgstr ""
+
+#: search.php:33
+#. translators: %s: search query.
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:24
+#. translators: 1: link to WP admin new post page.
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:30 template-parts/content-single.php:30
+#. translators: %s: Name of current post. Only visible to screen readers
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/content-page.php:41 template-parts/content-single.php:41
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-search.php:36 template-parts/content.php:31
+#: template-parts/home-sections/section-blog.php:82
+msgid "Read More"
+msgstr ""
+
+#: template-parts/home-sections/section-banner.php:56
+msgid "Know More"
+msgstr ""
+
+#: template-parts/home-sections/section-projects.php:31
+msgid "All"
+msgstr ""
+
+#: third-party/breadcrumbs.php:264
+msgid "Browse:"
+msgstr ""
+
+#: third-party/breadcrumbs.php:266
+msgid "Home"
+msgstr ""
+
+#: third-party/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: third-party/breadcrumbs.php:268
+msgid "Archives"
+msgstr ""
+
+#: third-party/breadcrumbs.php:270
+#. Translators: %s is the search query.
+msgid "Search results for: %s"
+msgstr ""
+
+#: third-party/breadcrumbs.php:272
+#. Translators: %s is the page number.
+msgid "Page %s"
+msgstr ""
+
+#: third-party/breadcrumbs.php:274
+#. Translators: %s is the page number.
+msgid "Comment Page %s"
+msgstr ""
+
+#: third-party/breadcrumbs.php:276
+#. Translators: Minute archive title. %s is the minute time format.
+msgid "Minute %s"
+msgstr ""
+
+#: third-party/breadcrumbs.php:278
+#. Translators: Weekly archive title. %s is the week date format.
+msgid "Week %s"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Corporate Agency"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themewidget.com/corporate-agency"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Corporate Agency is a WordPress theme designed and developed for building "
+"websites for showcasing company profile, corporate agency and different "
+"business houses. Theme customization can be done via customizer, where "
+"options for customization are included. Corporate Agency is translation "
+"ready."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "themewidget"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themewidget.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home Page Template"
+msgstr ""
+
+#: comments.php:41
+#. translators: 1: comment count number, 2: title.
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helpers.php:21
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/template-tags.php:44
+#. translators: used between list items, there is a space after the comma
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: third-party/breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: third-party/breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: third-party/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: third-party/breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: third-party/breadcrumbs.php:788 third-party/breadcrumbs.php:817
+#: third-party/breadcrumbs.php:844 third-party/breadcrumbs.php:871
+#: third-party/breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: third-party/breadcrumbs.php:789 third-party/breadcrumbs.php:845
+#: third-party/breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: third-party/breadcrumbs.php:790 third-party/breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: third-party/breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
