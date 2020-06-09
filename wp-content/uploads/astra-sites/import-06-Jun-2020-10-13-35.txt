@@ -1,0 +1,110 @@
+
+Imported Customizer Settings {"astra-settings":{"blog-single-post-structure":["single-image","single-title-meta"],"blog-single-width":"default","blog-single-max-width":1200,"blog-single-meta":["comments","category","author"],"blog-post-structure":["image","title-meta"],"blog-width":"default","blog-max-width":1200,"blog-post-content":"excerpt","blog-meta":["comments","category","author"],"text-color":"#414042","link-color":"#ffffff","theme-color":"#46237a","link-h-color":"#414042","footer-bg-obj":{"background-color":"rgba(70,35,122,0.05)","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"footer-color":"#414042","footer-link-color":"#46237a","footer-link-h-color":"#414042","footer-adv-bg-obj":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"footer-adv-text-color":"","footer-adv-link-color":"","footer-adv-link-h-color":"","footer-adv-wgt-title-color":"","button-color":"rgba(255,255,255,0.9)","button-h-color":"#ffffff","button-bg-color":"rgba(70,35,122,0.9)","button-bg-h-color":"#46237a","theme-button-padding":{"desktop":{"top":"15","right":"38","bottom":"15","left":"38"},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"button-radius":0,"theme-button-border-group-border-size":{"top":"1","right":"1","bottom":"1","left":"1"},"footer-sml-layout":"footer-sml-layout-2","footer-sml-section-1":"custom","footer-sml-section-1-credit":"Copyright \u00a9 [current_year] [site_title] | Powered by [site_title] | <a href=\"#\">Credits<\/a>","footer-sml-section-2":"menu","footer-sml-section-2-credit":"Copyright &copy; [current_year] [site_title] | Powered by [theme_author]","footer-sml-dist-equal-align":true,"footer-sml-divider":0,"footer-sml-divider-color":"#7a7a7a","footer-layout-width":"full","ast-header-retina-logo":"https:\/\/websitedemos.net\/alex37\/wp-content\/uploads\/sites\/430\/2019\/04\/logo-retina-free-img.png","ast-header-logo-width":"","ast-header-responsive-logo-width":{"desktop":"","tablet":"","mobile":""},"display-site-title":false,"display-site-tagline":0,"logo-title-inline":1,"disable-primary-nav":false,"header-layouts":"header-main-layout-1","header-main-rt-section":"none","header-display-outside-menu":false,"header-main-rt-section-html":"<button>Contact Us<\/button>","header-main-rt-section-button-text":"Button","header-main-rt-section-button-link":"https:\/\/www.wpastra.com","header-main-rt-section-button-link-option":{"url":"https:\/\/www.wpastra.com","new_tab":false,"link_rel":""},"header-main-rt-section-button-style":"theme-button","header-main-rt-section-button-text-color":"","header-main-rt-section-button-back-color":"","header-main-rt-section-button-text-h-color":"","header-main-rt-section-button-back-h-color":"","header-main-rt-section-button-padding":{"desktop":{"top":"","right":"","bottom":"","left":""},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""}},"header-main-rt-section-button-border-size":{"top":"","right":"","bottom":"","left":""},"header-main-sep":0,"header-main-sep-color":"","header-main-layout-width":"full","primary-submenu-border":{"top":"2","right":"0","bottom":"0","left":"0"},"primary-submenu-item-border":false,"primary-submenu-b-color":"","primary-submenu-item-b-color":"","header-main-menu-label":"","header-main-menu-align":"inline","header-main-submenu-container-animation":"fade","mobile-header-breakpoint":"","mobile-header-logo":"","mobile-header-logo-width":"","site-layout":"ast-full-width-layout","site-content-width":1170,"site-layout-outside-bg-obj":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"site-content-layout":"boxed-container","single-page-content-layout":"default","single-post-content-layout":"default","archive-post-content-layout":"default","body-font-family":"'Work Sans', sans-serif","body-font-variant":"","body-font-weight":"400","font-size-body":{"desktop":"17","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"body-line-height":"1.5","para-margin-bottom":"","body-text-transform":"","headings-font-family":"'Yanone Kaffeesatz', sans-serif","headings-font-weight":"400","headings-text-transform":"uppercase","headings-line-height":"","font-size-site-title":{"desktop":35,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-site-tagline":{"desktop":15,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-entry-title":{"desktop":30,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-archive-summary-title":{"desktop":40,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-page-title":{"desktop":40,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h1":{"desktop":"120","tablet":"80","mobile":"50","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h2":{"desktop":"80","tablet":"60","mobile":"34","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h3":{"desktop":"35","tablet":"35","mobile":"32","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h4":{"desktop":"30","tablet":"30","mobile":"26","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h5":{"desktop":"25","tablet":"25","mobile":"23","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h6":{"desktop":"20","tablet":"20","mobile":"20","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"site-sidebar-layout":"right-sidebar","site-sidebar-width":30,"single-page-sidebar-layout":"default","single-post-sidebar-layout":"default","archive-post-sidebar-layout":"default","footer-adv":"disabled","footer-adv-border-width":"","footer-adv-border-color":"#7a7a7a","mobile-header-toggle-btn-style":"fill","hide-custom-menu-mobile":1,"mobile-header-toggle-target":"icon","transparent-header-logo":"","transparent-header-retina-logo":"","different-transparent-logo":0,"different-transparent-retina-logo":0,"transparent-header-logo-width":{"desktop":"","tablet":"","mobile":""},"transparent-header-enable":0,"transparent-header-disable-archive":1,"transparent-header-disable-latest-posts-index":1,"transparent-header-on-devices":"both","transparent-header-main-sep":0,"transparent-header-main-sep-color":"","transparent-header-bg-color":"","transparent-header-color-site-title":"","transparent-header-color-h-site-title":"","transparent-menu-bg-color":"","transparent-menu-color":"","transparent-menu-h-color":"","transparent-submenu-bg-color":"","transparent-submenu-color":"","transparent-submenu-h-color":"","transparent-header-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-header-color-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-header-color-h-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-bg-color-responsive":{"desktop":"","tablet":"#46237a","mobile":"#46237a"},"transparent-menu-color-responsive":{"desktop":"rgba(255,255,255,0.75)","tablet":"rgba(255,255,255,0.75)","mobile":"rgba(255,255,255,0.75)"},"transparent-menu-h-color-responsive":{"desktop":"#ffffff","tablet":"#ffffff","mobile":"#ffffff"},"transparent-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-link-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-link-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-font-family":"inherit","breadcrumb-font-weight":"inherit","breadcrumb-text-transform":"","breadcrumb-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-active-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-hover-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-separator-color":{"desktop":"","tablet":"","mobile":""},"breadcrumb-bg-color":{"desktop":"","tablet":"","mobile":""},"breadcrumb-spacing":{"desktop":{"top":"","right":"","bottom":"","left":""},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"h1-color":"","h2-color":"","h3-color":"","h4-color":"","h5-color":"","h6-color":"","font-family-h1":"inherit","font-weight-h1":"inherit","text-transform-h1":"","line-height-h1":"","font-family-h2":"inherit","font-weight-h2":"inherit","text-transform-h2":"","line-height-h2":"","font-family-h3":"inherit","font-weight-h3":"inherit","text-transform-h3":"","line-height-h3":"","font-weight-button":"inherit","font-family-button":"inherit","font-size-button":{"desktop":"16","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"text-transform-button":"","theme-btn-line-height":1,"theme-btn-letter-spacing":"","header-main-rt-section-search-box-type":"slide-search","below-header-section-2-search-box-type":"slide-search","below-header-section-1-search-box-type":"slide-search","above-header-section-1-search-box-type":"slide-search","above-header-section-2-search-box-type":"slide-search","astra-addon-auto-version":"2.3.2","theme-auto-version":"2.3.1","different-retina-logo":true,"mobile-header-toggle-btn-style-color":"#ffffff","mobile-header-toggle-btn-border-radius":0,"button-v-padding":15,"button-h-padding":35,"_astra_pb_compatibility_completed":true,"is_theme_queue_running":false,"is_addon_queue_running":true,"theme-button-border-group-border-color":"#ffffff","heading-base-color":"#46237a","theme-button-border-group-border-h-color":"#ffffff","is_astra_addon_queue_running":false},"custom-css":""}
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/430/wxr.xml
+Inserted - Post 3254 - attachment - favicon-free-img
+Inserted - Post 3255 - attachment - logo-retina-free-img
+Inserted - Post 3256 - attachment - logro-regular-free-img
+Inserted - Post 3257 - page - Home
+Inserted - Post 3258 - page - About Us
+Inserted - Post 3259 - page - Properties
+Inserted - Post 3260 - page - Agents
+Inserted - Post 3261 - page - FAQ
+Inserted - Post 3262 - page - Contact
+Inserted - Post 3263 - nav_menu_item - 
+Inserted - Post 3264 - nav_menu_item - 
+Inserted - Post 3265 - nav_menu_item - 
+Inserted - Post 3266 - nav_menu_item - 
+Inserted - Post 3267 - nav_menu_item - 
+Inserted - Post 3268 - nav_menu_item - 
+Inserted - Post 3269 - attachment - cropped-favicon-free-img.png
+Inserted - Post 3270 - attachment - about-01-free-img
+Inserted - Post 3271 - attachment - img-06-free-img
+Inserted - Post 3272 - attachment - img-07-free-img
+Inserted - Post 3273 - attachment - img-08-free-img
+Inserted - Post 3274 - attachment - img-09-free-img
+Inserted - Post 3275 - attachment - img-10-free-img
+Inserted - Post 3276 - attachment - bg-04-free-img
+Inserted - Post 3277 - attachment - bg-08-free-img
+Inserted - Post 3278 - attachment - team-07-free-img
+Inserted - Post 3279 - attachment - team-08-free-img
+Inserted - Post 3280 - attachment - bg-01-free-img
+Inserted - Post 3281 - attachment - icon-01-free-img
+Inserted - Post 3282 - attachment - icon-02-free-img
+Inserted - Post 3283 - attachment - icon-03-free-img
+Inserted - Post 3284 - attachment - about-02-free-img
+Inserted - Post 3285 - attachment - logo-05-free-img
+Inserted - Post 3286 - attachment - logo-01-free-img
+Inserted - Post 3287 - attachment - logo-02-free-img
+Inserted - Post 3288 - attachment - logo-03-free-img
+Inserted - Post 3289 - attachment - logo-04-free-img
+Inserted - Post 3290 - attachment - demo-screenshot-free-img
+Inserted - Post 3291 - elementor-hf - Footer
+Inserted - Post 3292 - attachment - estate-modern-apartment
+Inserted - Post 3293 - attachment - estate-family-home
+Inserted - Post 3294 - attachment - estate-elegant-flat
+Inserted - Post 3295 - attachment - estate-living-window
+Inserted - Post 3296 - attachment - estate-living-room
+Inserted - Post 3297 - attachment - estate-window-sofa
+Inserted - Post 3298 - attachment - estate-pool
+Inserted - Post 3299 - attachment - estate-living-sofa
+Inserted - Post 3300 - attachment - estate-living-door
+Inserted - Post 3301 - attachment - estate-agent
+Inserted - Post 3302 - attachment - estate-agent-4
+Inserted - Post 3303 - attachment - estate-agent-5
+Inserted - Post 3304 - attachment - estate-agent-1
+Inserted - Post 3305 - attachment - estate-agent-3
+Inserted - Post 3306 - attachment - estate-agent-2
+Inserted - Post 3307 - attachment - estate-sofa
+Inserted - Post 3308 - attachment - estate-about-img-01
+Inserted - Post 3309 - elementor_library - Default Kit
+Inserted - Post 3310 - attachment - modern-apartment
+Imported - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"https:\/\/websitedemos.net\/real-estate-02\/wp-content\/uploads\/sites\/430\/2019\/04\/logro-regular-free-img.png","nav_menu_locations":{"primary":"menu","footer_menu":"menu"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"elementor_container_width":"1170","elementor_cpt_support":["post","page"],"elementor_css_print_method":"external","elementor_default_generic_fonts":"Sans-serif","elementor_disable_color_schemes":"yes","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":null,"elementor_global_image_lightbox":"yes","elementor_page_title_selector":"","elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker]":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#46237a","5":"#4054b2","6":"#23a455","7":"#000","8":"#fff"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":"5","elementor_stretched_section_container":"","elementor_load_fa4_shim":"yes","woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null}
+Inserted - Post 3311 - attachment - logro-regular-free-img-3
+Imported - Widgets {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"recent-comments-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"categories-2":{"title":"","count":0,"hierarchical":0,"dropdown":0},"meta-2":{"title":""}}}
+Complete 
+Batch Process Started..
+Starter Templates - Importing Images for Blog name 'Inmobiliaria De Freitas G 1937, c.a' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Page - for Gutenberg ---- "2"
+---- Processing WordPress Page - for Gutenberg ---- "3197"
+---- Processing WordPress Page - for Gutenberg ---- "99"
+---- Processing WordPress Page - for Gutenberg ---- "98"
+---- Processing WordPress Page - for Gutenberg ---- "97"
+---- Processing WordPress Posts / Pages - for Elementor ----
+---- Processing WordPress Page - for Elementor ---- "431"
+---- Processing WordPress Page - for Elementor ---- "420"
+---- Processing WordPress Page - for Elementor ---- "417"
+---- Processing WordPress Page - for Elementor ---- "3196"
+---- Processing WordPress Page - for Elementor ---- "3193"
+---- Processing WordPress Page - for Elementor ---- "3190"
+---- Processing WordPress Page - for Elementor ---- "328"
+---- Processing WordPress Page - for Elementor ---- "3291"
+---- Processing WordPress Page - for Elementor ---- "2530"
+---- Processing WordPress Page - for Elementor ---- "22"
+---- Processing WordPress Page - for Elementor ---- "3262"
+---- Processing WordPress Page - for Elementor ---- "3261"
+---- Processing WordPress Page - for Elementor ---- "20"
+---- Processing WordPress Page - for Elementor ---- "3260"
+---- Processing WordPress Page - for Elementor ---- "18"
+---- Processing WordPress Page - for Elementor ---- "3259"
+---- Processing WordPress Page - for Elementor ---- "16"
+---- Processing WordPress Page - for Elementor ---- "14"
+---- Processing WordPress Page - for Elementor ---- "3258"
+---- Processing WordPress Page - for Elementor ---- "3257"
+---- Processing WordPress Page - for Elementor ---- "13"
+---- Processing WordPress Page - for Elementor ---- "15"
+---- Processing WordPress Page - for Elementor ---- "96"
+---- Processing WordPress Page - for Elementor ---- "95"
+---- Processing MISC ----
+Post ID: 472
+Post ID: 471
+Post ID: 470
+Post ID: 29
+Post ID: 28
+Post ID: 26
+Post ID: 25
+Post ID: 24
+Post ID: 3266
+Post ID: 3265
+Batch Process Complete!
